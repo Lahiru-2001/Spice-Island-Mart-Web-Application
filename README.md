@@ -1,2 +1,2 @@
 # Project02
- Group Project Using HTML/CSS/JS/PHP/SQL
+ Web aplication Group Project Using HTML/CSS/JS/PHP/SQL
