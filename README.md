@@ -1,7 +1,5 @@
 <h1>Spice Island Mart Web Application</h1>
 
-<p>This project is a web application developed for Spice Island Mart, a well-established supermarket in Sri Lanka. The application aims to provide a convenient, efficient, and user-friendly online grocery delivery platform, enabling customers to access a wide range of fresh and high-quality groceries.</p>
-
 <h2>Project Overview</h2>
 
 <p>Spice Island Mart seeks to modernize the grocery shopping experience by launching an online platform. The project addresses various challenges, including managing a wide variety of products, ensuring data security, and optimizing the user experience across different devices.</p>
